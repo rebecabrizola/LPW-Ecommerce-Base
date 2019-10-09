@@ -51,6 +51,7 @@ public class Mock {
             caneta.setDescricao("Caneta Bic");
             caneta.setPreco(1.5f);
             caneta.setOferta(true);
+            caneta.setImagem("http://www.bavatos.com.br/content/images/thumbs/0001016_caneta-esf-cristal-azul-bic_580.jpeg");
             lista.add(caneta);
 
             Produto caderno = new Produto();
